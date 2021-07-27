@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Bday Greet</string>
+    <string name="enter_the_name">Enter the Name</string>
+    <string name="get_card">Get Card</string>
+    <string name="imputHintText">Name Goes Here</string>
+</resources>
